@@ -34,3 +34,4 @@ RUN python3 /app/portia_server/manage.py migrate
 
 EXPOSE 9001
 ENTRYPOINT ["/app/docker/entry"]
+
