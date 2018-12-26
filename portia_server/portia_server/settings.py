@@ -27,7 +27,7 @@ MEDIA_ROOT = os.path.abspath(os.path.join(BASE_DIR, '../data/projects'))
 SECRET_KEY = 'x8#v=v_yen3pvul&2*-x3=td2eqvw%5!*qaf^g8vzu#gcyo+%n'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = [
     '*'
